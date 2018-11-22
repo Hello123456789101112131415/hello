@@ -1,0 +1,27 @@
+<!doctype html>
+   <html>
+      <style>   
+            body{background-color:black;}
+             h1{
+         color: orange;
+         font-size:100px;
+         font face="lobster";
+                }
+                h2{color: Blue;
+         font-size:60px;
+                }
+        #pic1 {
+             height: 200px;
+             width: auto;}
+              #pic2 {
+             height: 300px;
+             width: auto;}
+      </style> 
+      <h1 id="heading1" > Hello</h1>
+      <h2>Hello</h2>
+      <P>Hello</P>
+      <img id="pic1" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/130223_Zach_Parise_Wild.png">
+      <img id="pic2" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Justin_Falk_Wild_2010_1.jpg">
+
+
+   </html> 
